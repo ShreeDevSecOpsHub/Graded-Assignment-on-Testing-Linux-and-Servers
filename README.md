@@ -22,7 +22,7 @@ The goal was to ensure **system health visibility, secure access, and data recov
    ```bash
    df -h   # Shows overall disk usage
 
-   <img width="975" height="242" alt="image" src="https://github.com/user-attachments/assets/9812b81c-e440-4db3-85c7-8c0421cc1bfc" />
+<img width="975" height="242" alt="image" src="https://github.com/user-attachments/assets/9812b81c-e440-4db3-85c7-8c0421cc1bfc" />
 
    du -sh /home/*   # Shows per-user directory usage
    ```
@@ -31,10 +31,10 @@ The goal was to ensure **system health visibility, secure access, and data recov
 3. **Identify resource-intensive processes:**
    ```bash
    ps aux --sort=-%cpu | head -n 10
-   <img width="975" height="205" alt="image" src="https://github.com/user-attachments/assets/e878da86-c69e-4e28-98e7-dfeed8ce0de0" />
+<img width="975" height="205" alt="image" src="https://github.com/user-attachments/assets/e878da86-c69e-4e28-98e7-dfeed8ce0de0" />
 
    ps aux --sort=-%mem | head -n 10
-   <img width="975" height="190" alt="image" src="https://github.com/user-attachments/assets/63b3ba39-6142-4031-a589-d52a6b045b30" />
+<img width="975" height="190" alt="image" src="https://github.com/user-attachments/assets/63b3ba39-6142-4031-a589-d52a6b045b30" />
 
    ```
 
