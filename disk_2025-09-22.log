@@ -1,0 +1,9 @@
+Filesystem                Size  Used Avail Use% Mounted on
+/dev/mapper/cs_vbox-root   17G  2.1G   15G  12% /
+devtmpfs                  4.0M     0  4.0M   0% /dev
+tmpfs                     853M     0  853M   0% /dev/shm
+tmpfs                     342M  6.4M  335M   2% /run
+/dev/sda2                 960M  288M  673M  30% /boot
+tmpfs                     1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs                     171M  4.0K  171M   1% /run/user/0
+tmpfs                     1.0M     0  1.0M   0% /run/credentials/systemd-journald.service

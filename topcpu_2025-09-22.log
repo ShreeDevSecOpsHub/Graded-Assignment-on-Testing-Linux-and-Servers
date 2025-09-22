@@ -1,0 +1,10 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root       41271 25.0  0.2   9168  3936 pts/1    R+   04:23   0:00 ps aux --sort=-%cpu
+root       41166  1.3  0.0      0     0 ?        I    03:51   0:25 [kworker/0:256-events]
+root       40927  1.3  0.0      0     0 ?        I    03:51   0:25 [kworker/0:17-events_freezable_pwr_efficient]
+root           1  0.0  1.1  32044 20392 ?        Ss   02:21   0:05 /usr/lib/systemd/systemd --system --deserialize=67
+root        1925  0.0  0.4  15628  7812 ?        S    03:08   0:03 sshd-session: root@pts/1
+root          17  0.0  0.0      0     0 ?        S    02:21   0:05 [ksoftirqd/0]
+root       41267  0.0  0.3  16312  6016 ?        S    04:22   0:00 systemd-userwork: waiting...
+root       41266  0.0  0.3  16312  6016 ?        S    04:22   0:00 systemd-userwork: waiting...
+root       41263  0.0  0.3  16312  6000 ?        S    04:22   0:00 systemd-userwork: waiting...
